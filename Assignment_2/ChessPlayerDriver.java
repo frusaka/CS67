@@ -1,6 +1,6 @@
 /*
 From the readings, I was able to revise a bit on format specifiers because it's difficult
-to memorize or the different formats.
+to memorize all the different formats.
  */
 
 import java.util.Scanner;
